@@ -12,7 +12,7 @@ export const EVENT_INFO: EventInfo = {
   time: "6:00 PM",
   venue: "Eventos Casablanca",
   dressCode: "Formal -Rosa solo la quinceañera-",
-  invitationUrl: "https://quince-premium-frida.vercel.app/"
+  invitationUrl: "https://quince-vip-aileen-dayana.vercel.app/"
 } as const;
 
 export const SUGGESTED_MESSAGES = [

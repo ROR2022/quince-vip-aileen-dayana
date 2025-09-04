@@ -1,4 +1,5 @@
 import { CreateQR } from '@/components/sections/QRCode';
+import Link from 'next/link';
 
 // 📱 Página para probar el componente CreateQR
 export default async function CreateQRPage({ params }: { params: { id: string } }) {
@@ -13,6 +14,9 @@ export default async function CreateQRPage({ params }: { params: { id: string } 
       background: 'linear-gradient(135deg, #f8fafc 0%, #e2e8f0 100%)',
       padding: '2rem 1rem'
     }}>
+      <div>
+        <Link href="/invitados" className="text-blue-600 underline mb-4 inline-block">← Volver a Lista de Invitados</Link>
+      </div>
       <CreateQR urlLink={urlLink} />
     </main>
   );

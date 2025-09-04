@@ -81,7 +81,7 @@ const QRCode = () => {
 
           <div className='mb-6'>
             <Image
-              src="/images/frida6.jpg"
+              src="/images/aurora1.jpeg"
               alt="Frida"
               width={200}
               height={150}
