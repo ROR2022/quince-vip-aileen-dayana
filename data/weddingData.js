@@ -36,10 +36,10 @@ export const weddingData = {
   // ⛪ Información de la ceremonia
   ceremony: {
     time: "6:00 p.m",
-    name: "Eventos Casablanca",
-    address: "11 de Agosto de 1859 907, Leyes de Reforma 3ra Secc, Iztapalapa, 09310 Ciudad de México, CDMX",
+    name: "Salon Pedregal",
+    address: "Labor de dolores 13201 labor de terrazas",
     type: "Ceremonia",
-    ubiLink: "https://maps.app.goo.gl/DxyKxFY196TicLej8"
+    ubiLink: "https://maps.app.goo.gl/t7eDUknxKEvaPTEj6"
   },
 
   // 🎉 Información de la recepción

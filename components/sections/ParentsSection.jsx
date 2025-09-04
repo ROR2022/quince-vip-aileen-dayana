@@ -61,23 +61,23 @@ export default function ParentsSection() {
                   </h3>
                   <div className="space-y-2">
                     <p className="text-xl font-medium">
-                      {parents.bride.mother}
+                      Jaime Mendoza Lopez
                     </p>
                     <p className="text-xl font-medium">
-                      {parents.bride.father}
+                      Rosa Isela Parra Gutierrez
                     </p>
                   </div>
                 </div>
 
-                {/* <div>
+               <div>
                   <h3 className="font-script text-3xl text-secondary mb-4">
-                    Papás del novio
+                    Mis Padrinos
                   </h3>
                   <div className="space-y-2">
-                    <p className="text-xl font-medium">{parents.groom.mother}</p>
-                    <p className="text-xl font-medium">{parents.groom.father}</p>
+                    <p className="text-xl font-medium">Ely Cano</p>
+                    <p className="text-xl font-medium">Misael Cano</p>
                   </div>
-                </div> */}
+                </div> 
               </div>
             </div>
           </div>
